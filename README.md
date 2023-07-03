@@ -9,8 +9,9 @@
 
 - 💬 Ask me about **Software Troubleshooting**
 
+- ## 🚀 More About Me ↣    [CV.pdf](https://github.com/aliali0541/aliali0541/files/11934038/CV.pdf)
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliali0541&label=Profile%20views&color=038ddd&style=flat-square" alt="aliali0541" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -28,8 +29,9 @@
     <img src="https://www.gstatic.com/images/branding/product/1x/gmail_2020q4_24dp.png" alt="Gmail Logo" height="30" width="30" />
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliali0541&label=Profile%20views&color=038ddd&style=flat-square" alt="aliali0541" /> </p>
 
-
+## 
 <h3 align="left">Languages and Tools:</h3>
 <!--
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
@@ -44,11 +46,12 @@
 </p>
 </div>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliali0541&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="aliali0541" /></p>
+## 
 
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliali0541&theme=dark" alt="aliali0541" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aliali0541" alt="aliali0541" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=aliali0541" alt="aliali0541" /></a>
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliali0541&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="aliali0541" /></p>
