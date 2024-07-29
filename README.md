@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Software Troubleshooting.**
 
-- ## 🚀 More About Me ↣    [CV.pdf](https://github.com/aliali0541/aliali0541/files/11934640/CV.pdf)
+- ## 🚀 More About Me ↣    [CV.pdf]
 
 
 
