@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Mostafa.</h1>
-<h3 align="center">C++ Developer, Problem Solver, Software Troubleshooting.</h3>
+<h3 align="center">C++ Developer, Problem Solver, Software Troubleshooter.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliali0541&show_icons=true&theme=tokyonight&locale=en" alt="aliali0541" /></p>
 
